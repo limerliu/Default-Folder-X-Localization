@@ -1,0 +1,21 @@
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "4"; */
+"4.title" = "购买";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "6"; */
+"6.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "10"; */
+"10.title" = "名称:";
+
+/* Class = "NSTextFieldCell"; title = "License Number:"; ObjectID = "23"; */
+"23.title" = "许可证号:";
+
+/* Class = "NSWindow"; title = "Default Folder X License Information"; ObjectID = "duC-tq-2l3"; */
+"duC-tq-2l3.title" = "Default Folder X 许可信息";
+
+/* Class = "NSTextFieldCell"; title = "Contacting St. Clair Software to verify your Default Folder X license."; ObjectID = "Qad-1T-uI9"; */
+"Qad-1T-uI9.title" = "联系 St. Clair Software 验证您的 Default Folder X 许可证。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "R5e-cX-4Qu"; */
+"R5e-cX-4Qu.title" = "取消";
+

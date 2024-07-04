@@ -1,0 +1,45 @@
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "A8u-nk-AVf"; */
+"A8u-nk-AVf.title" = "每天";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "BJG-j4-Uuf"; */
+"BJG-j4-Uuf.title" = "立即检查";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "J0A-5f-Kif"; */
+"J0A-5f-Kif.title" = "每月";
+
+/* Class = "NSButtonCell"; title = "Mirror recent and favorite items in ~/Library"; ObjectID = "L3o-kl-Xls"; */
+"L3o-kl-Xls.title" = "在 ~/Library 中镜像最近和收藏的项目";
+
+/* Class = "NSTextFieldCell"; title = "Sync:"; ObjectID = "OmF-ge-2RA"; */
+"OmF-ge-2RA.title" = "同步:";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "Qrz-N8-6dL"; */
+"Qrz-N8-6dL.title" = "每周";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "VYX-GY-Fhl"; Note = "#DoNotLocalize"; */
+"VYX-GY-Fhl.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Sync settings via iCloud"; ObjectID = "Ve4-tf-eie"; */
+"Ve4-tf-eie.title" = "通过iCloud同步设置";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "Ye3-qT-WQR"; */
+"Ye3-qT-WQR.title" = "每小时";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "a4p-X0-tIR"; */
+"a4p-X0-tIR.title" = "更新:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d2e-Sq-8RF"; Note = "#DoNotLocalize"; */
+"d2e-Sq-8RF.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Exclude Default Folder X from the following apps"; ObjectID = "eys-XI-Ez2"; */
+"eys-XI-Ez2.title" = "从以下应用程序中排除 Default Folder X";
+
+/* Class = "NSTextFieldCell"; title = "Aliases:"; ObjectID = "nY3-Pk-yhj"; */
+"nY3-Pk-yhj.title" = "别名:";
+
+/* Class = "NSButtonCell"; title = "Automatically download and install"; ObjectID = "pie-q3-Gwc"; */
+"pie-q3-Gwc.title" = "自动下载并安装";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "xvb-Hc-bYV"; */
+"xvb-Hc-bYV.title" = "检查";

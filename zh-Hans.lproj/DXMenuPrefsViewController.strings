@@ -1,0 +1,69 @@
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "4uR-Yl-0KL"; */
+"4uR-Yl-0KL.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "in a new Finder window"; ObjectID = "5ZD-tf-Qjc"; */
+"5ZD-tf-Qjc.title" = "在新的 Finder 窗口中";
+
+/* Class = "NSTextFieldCell"; title = "Open folders in"; ObjectID = "919-M4-Esp"; */
+"919-M4-Esp.title" = "打开文件夹位置";
+
+/* Class = "NSButtonCell"; title = "Open items in"; ObjectID = "DCe-D4-Z9d"; */
+"DCe-D4-Z9d.title" = "打开项目位置";
+
+/* Class = "NSButtonCell"; title = "Put color tags at the top"; ObjectID = "LVM-SX-RUv"; */
+"LVM-SX-RUv.title" = "将颜色标签置顶";
+
+/* Class = "NSMenuItem"; title = "Terminal"; ObjectID = "Lpy-7b-09T"; */
+"Lpy-7b-09T.title" = "终端";
+
+/* Class = "NSMenuItem"; title = "⌃ Control"; ObjectID = "Nt4-qi-tds"; */
+"Nt4-qi-tds.title" = "⌃ Control";
+
+/* Class = "NSTextFieldCell"; title = "Submenus:"; ObjectID = "SQe-j9-eoy"; */
+"SQe-j9-eoy.title" = "子菜单:";
+
+/* Class = "NSButtonCell"; title = "Show contents of folders using submenus"; ObjectID = "Wby-2G-Pds"; */
+"Wby-2G-Pds.title" = "使用子菜单显示文件夹内容";
+
+/* Class = "NSMenuItem"; title = "in the frontmost Finder window"; ObjectID = "aIQ-n7-jaE"; */
+"aIQ-n7-jaE.title" = "在最前面的窗口中";
+
+/* Class = "NSButtonCell"; title = "List parent folders at the bottom"; ObjectID = "caU-ug-bOd"; */
+"caU-ug-bOd.title" = "将父文件夹列在底部";
+
+/* Class = "NSMenuItem"; title = "⌘ Command"; ObjectID = "eBh-K2-feM"; */
+"eBh-K2-feM.title" = "⌘ Command";
+
+/* Class = "NSButtonCell"; title = "Show previews as you mouse over items"; ObjectID = "edr-eA-bSQ"; */
+"edr-eA-bSQ.title" = "鼠标悬停时显示项目预览";
+
+/* Class = "NSTextFieldCell"; title = "clicking"; ObjectID = "fSn-n1-xVT"; */
+"fSn-n1-xVT.title" = "点击";
+
+/* Class = "NSButtonCell"; title = "Put folders at the top"; ObjectID = "gK8-RR-pa4"; */
+"gK8-RR-pa4.title" = "将文件夹置顶";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "kOf-my-qb3"; */
+"kOf-my-qb3.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Actions:"; ObjectID = "lWe-Ff-xvP"; */
+"lWe-Ff-xvP.title" = "操作:";
+
+/* Class = "NSTextFieldCell"; title = "by"; ObjectID = "nJC-jp-1TJ"; */
+"nJC-jp-1TJ.title" = "by";
+
+/* Class = "NSMenuItem"; title = "iTerm2"; ObjectID = "vjM-EH-rs1"; */
+"vjM-EH-rs1.title" = "iTerm2";
+
+/* Class = "NSTextFieldCell"; title = "Sort by"; ObjectID = "wVU-TD-dXx"; */
+"wVU-TD-dXx.title" = "排序方式";
+
+/* Class = "NSTextFieldCell"; title = "Tip: Holding down the Option key when a submenu is open will switch between sorting by name and sorting by date."; ObjectID = "wlq-RZ-qix"; */
+"wlq-RZ-qix.title" = "提示：在子菜单打开时按住 ⌥ Option 键可以在按名称排序和按日期排序之间切换。";
+
+/* Class = "NSMenuItem"; title = "⌥ Option"; ObjectID = "xMI-jb-0n0"; */
+"xMI-jb-0n0.title" = "⌥ Option";
+
+/* Class = "NSTextFieldCell"; title = " "; ObjectID = "Csr-jb-aYr"; Note = "Text field after \"the frontmost window\""; */
+"Csr-jb-aYr.title" = "";

@@ -1,0 +1,60 @@
+
+/* Class = "NSMenuItem"; title = "Computer"; ObjectID = "2Ed-Dz-jlv"; */
+"2Ed-Dz-jlv.title" = "计算机";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "2Im-jy-byc"; */
+"2Im-jy-byc.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "Add Item"; ObjectID = "49X-iY-w9k"; Note = "#DoNotLocalize"; */
+"49X-iY-w9k.title" = "添加项目";
+
+/* Class = "NSMenuItem"; title = "Recent Apps"; ObjectID = "8r4-33-tPu"; */
+"8r4-33-tPu.title" = "最近应用";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JjN-aC-nt6"; Note = "#DoNotLocalize"; */
+"JjN-aC-nt6.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Separator"; ObjectID = "MNK-hm-4sD"; */
+"MNK-hm-4sD.title" = "分隔符";
+
+/* Class = "NSMenuItem"; title = "Recent Files"; ObjectID = "YNK-wu-BtB"; */
+"YNK-wu-BtB.title" = "最近文件";
+
+/* Class = "NSTextFieldCell"; title = "Reorder:"; ObjectID = "aAY-J3-Rco"; */
+"aAY-J3-Rco.title" = "重新排序:";
+
+/* Class = "NSTextFieldCell"; title = "Display as:"; ObjectID = "eZr-sU-fs2"; */
+"eZr-sU-fs2.title" = "显示为:";
+
+/* Class = "NSMenuItem"; title = "Recent Finder Windows"; ObjectID = "gTg-Il-pks"; */
+"gTg-Il-pks.title" = "最近的 Finder 窗口";
+
+/* Class = "NSMenuItem"; title = "Favorites"; ObjectID = "hUU-vS-qQD"; */
+"hUU-vS-qQD.title" = "收藏夹";
+
+/* Class = "NSButtonCell"; title = "Submenu"; ObjectID = "lpf-fJ-Xc4"; */
+"lpf-fJ-Xc4.title" = "子菜单";
+
+/* Class = "NSMenuItem"; title = "Recent Folders"; ObjectID = "pH6-oR-sZr"; */
+"pH6-oR-sZr.title" = "最近文件夹";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Default Folder Icon"; ObjectID = "sVH-UA-2DL"; */
+"sVH-UA-2DL.ibExternalAccessibilityDescription" = "默认文件夹图标";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "tJt-gu-w22"; */
+"tJt-gu-w22.title" = "恢复默认值";
+
+/* Class = "NSMenuItem"; title = "Quick Search"; ObjectID = "u0s-AV-fV0"; */
+"u0s-AV-fV0.title" = "快速搜索";
+
+/* Class = "NSMenuItem"; title = "Finder Windows"; ObjectID = "vCb-id-b1c"; */
+"vCb-id-b1c.title" = "Finder 窗口";
+
+/* Class = "NSMenuItem"; title = "Folder Sets"; ObjectID = "vNK-hw-1M5"; */
+"vNK-hw-1M5.title" = "文件夹集";
+
+/* Class = "NSTextFieldCell"; title = "Tip: Drag items to reorder them."; ObjectID = "yvc-Yz-fzb"; */
+"yvc-Yz-fzb.title" = "提示: 拖动项目以重新排序。";
+
+/* Class = "NSButtonCell"; title = "Menu items"; ObjectID = "yzE-h4-I9H"; */
+"yzE-h4-I9H.title" = "菜单项";

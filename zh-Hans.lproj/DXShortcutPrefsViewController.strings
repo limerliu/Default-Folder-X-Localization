@@ -1,0 +1,21 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Shortcut"; ObjectID = "JOp-gU-XlN"; */
+"JOp-gU-XlN.headerCell.title" = "快捷键";
+
+/* Class = "NSButtonCell"; title = "Reset to Defaults"; ObjectID = "d7F-1x-iTx"; */
+"d7F-1x-iTx.title" = "恢复默认设置";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dBf-Kx-ru3"; Note = "#DoNotLocalize"; */
+"dBf-Kx-ru3.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fIO-oC-cIV"; Note = "#DoNotLocalize"; */
+"fIO-oC-cIV.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tdC-If-dH9"; Note = "#DoNotLocalize"; */
+"tdC-If-dH9.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Command"; ObjectID = "wGP-VE-MOa"; */
+"wGP-VE-MOa.headerCell.title" = "命令";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wMc-28-2Mc"; Note = "#DoNotLocalize"; */
+"wMc-28-2Mc.title" = "文本单元格";

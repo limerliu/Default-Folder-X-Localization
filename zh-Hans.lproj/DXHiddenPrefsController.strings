@@ -1,0 +1,111 @@
+/* Class = "NSButtonCell"; title = "Remember file dialog positions"; ObjectID = "2CL-m0-FGz"; */
+"2CL-m0-FGz.title" = "记住文件对话框位置";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add recent items to the Recent Files and Recent Folders menus even if they're inside a package."; ObjectID = "9u3-4b-Xbv"; */
+"9u3-4b-Xbv.ibShadowedToolTip" = "即使项目位于包内，也将其添加到“最近文件”和“最近文件夹”菜单中。";
+
+/* Class = "NSButtonCell"; title = "Show unmounted folders in menus"; ObjectID = "75J-lU-n7H"; */
+"75J-lU-n7H.title" = "在菜单中显示未挂载的文件夹";
+
+/* Class = "NSButtonCell"; title = "Export and print to a document's folder"; ObjectID = "a6s-Q6-sk9"; */
+"a6s-Q6-sk9.title" = "导出并打印到文档文件夹";
+
+/* Class = "NSButtonCell"; title = "Save Debug Information"; ObjectID = "ABa-5N-w36"; */
+"ABa-5N-w36.title" = "保存调试信息";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Items usually aren't added to the Recent Files and Recent Folders menus if they're in an invisible folder. Turning this option on will make Default Folder X add them to the menus."; ObjectID = "b9z-fL-46i"; */
+"b9z-fL-46i.ibShadowedToolTip" = "如果项目位于不可见文件夹中，通常不会将其添加到“最近文件”和“最近文件夹”菜单中。打开此选项将使 Default Folder X 把它们添加到菜单中。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Make Default Folder X's toolbar fade in when it appears. This looks nicer, but is slightly slower."; ObjectID = "CJK-xk-6qg"; */
+"CJK-xk-6qg.ibShadowedToolTip" = "使Default Folder X的工具栏在出现时淡入。这样看起来更漂亮，但速度稍微慢。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "measured in seconds"; ObjectID = "f9j-T5-MCR"; */
+"f9j-T5-MCR.ibShadowedToolTip" = "以秒为单位测量";
+
+/* Class = "NSButtonCell"; title = "Reselect the last selected file in column view"; ObjectID = "Fgl-AH-x0p"; */
+"Fgl-AH-x0p.title" = "在列视图中重新选择上次选定的文件";
+
+/* Class = "NSTextFieldCell"; title = "Delay before drawer previews are shown:"; ObjectID = "gdc-9m-Ubc"; */
+"gdc-9m-Ubc.title" = "显示抽屉预览之前的延迟：";
+
+/* Class = "NSTextFieldCell"; title = "Minimum file dialog height:"; ObjectID = "giP-sX-kUP"; */
+"giP-sX-kUP.title" = "文件对话框的最小高度：";
+
+/* Class = "NSButtonCell"; title = "Finder-click changes view mode"; ObjectID = "gKA-2b-gmP"; */
+"gKA-2b-gmP.title" = "Finder-单击 更改视图模式";
+
+/* Class = "NSTextFieldCell"; title = "Delay before menu previews are shown:"; ObjectID = "gw6-Fa-Nki"; */
+"gw6-Fa-Nki.title" = "显示菜单预览之前的延迟：";
+
+/* Class = "NSTextFieldCell"; title = "Delay before previews get larger:"; ObjectID = "h5W-ag-bYr"; */
+"h5W-ag-bYr.title" = "预览变大之前的延迟：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn on this setting to restore the sizes and positions of file dialogs after they appear."; ObjectID = "hnd-ym-hJe"; */
+"hnd-ym-hJe.ibShadowedToolTip" = "启用此设置后，文件对话框将记住它们出现时的大小和位置。";
+
+/* Class = "NSButtonCell"; title = "Show recent items located in packages"; ObjectID = "HSy-ft-N7m"; */
+"HSy-ft-N7m.title" = "显示位于包内的最近项目";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Fade the window highlight in when you move the mouse over a Finder window. This looks nicer, but is slightly slower."; ObjectID = "hzB-kE-PDa"; */
+"hzB-kE-PDa.ibShadowedToolTip" = "将鼠标移动到 Finder 窗口上时，淡入窗口高亮显示。这看起来更漂亮，但速度稍慢。";
+
+/* Class = "NSButtonCell"; title = "Animate Finder-click window fade in"; ObjectID = "iaT-zj-PLE"; */
+"iaT-zj-PLE.title" = "动画显示 Finder 点击窗口淡入";
+
+/* Class = "NSTextFieldCell"; title = "Additional settings. Mouse over a checkbox for help."; ObjectID = "JRA-VW-IpW"; */
+"JRA-VW-IpW.title" = "其他设置：将鼠标悬停在复选框上以获取帮助。";
+
+/* Class = "NSButtonCell"; title = "Show recent items located in hidden folders"; ObjectID = "leF-ku-PcX"; */
+"leF-ku-PcX.title" = "显示位于隐藏文件夹中的最近项目";
+
+/* Class = "NSTextFieldCell"; title = "Minimum file dialog width:"; ObjectID = "MCV-x4-UJO"; */
+"MCV-x4-UJO.title" = "文件对话框的最小宽度：";
+
+/* Class = "NSButtonCell"; title = "Use enhanced VoiceOver keyboard support"; ObjectID = "n1R-lE-y9c"; */
+"n1R-lE-y9c.title" = "使用增强的 VoiceOver 键盘支持";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Default Folder X normally doesn't allow VoiceOver to \"see\" its toolbar and menus in a file dialog. Turning this option on will allow VoiceOver to traverse to Default Folder X's controls, but will make it more difficult to access the controls in the file dialog."; ObjectID = "OCV-H5-AEO"; */
+"OCV-H5-AEO.ibShadowedToolTip" = "默认情况下，Default Folder X 不会让 VoiceOver 在文件对话框中看到它的工具栏和菜单。启用此选项将允许 VoiceOver 访问 Default Folder X 的控件，但会增加在文件对话框中访问这些控件的困难度。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn on this setting to restore the sizes of file dialogs after they appear."; ObjectID = "OMx-4E-oAE"; */
+"OMx-4E-oAE.ibShadowedToolTip" = "启用此设置后，文件对话框将记住它们出现时的大小。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "measured in pixels"; ObjectID = "qxS-bz-5oM"; */
+"qxS-bz-5oM.ibShadowedToolTip" = "以像素为单位测量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "To avoid graphical flickering, Default Folder X uses a slower method of switching between folders in 32-bit Carbon applications. Turning on this checkbox makes folder switching faster, but file dialogs will flicker."; ObjectID = "RTV-dG-UOZ"; */
+"RTV-dG-UOZ.ibShadowedToolTip" = "为避免图形闪烁，Default Folder X 在 32 位 Carbon 应用程序中使用较慢的文件夹切换方法。打开此复选框可以加快文件夹切换速度，但文件对话框将会闪烁。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show folders in the menus even if they're on a disk that isn't currently available. If you select one from the menu, Default Folder X will attempt to mount the disk containing it."; ObjectID = "ry9-lg-2oA"; */
+"ry9-lg-2oA.ibShadowedToolTip" = "即使磁盘不可用，也在菜单中显示文件夹。如果从菜单中选择文件夹，Default Folder X 将尝试挂载包含它的磁盘。";
+
+/* Class = "NSButtonCell"; title = "Animate the toolbar window fade in"; ObjectID = "rzn-Ts-pOT"; */
+"rzn-Ts-pOT.title" = "工具栏窗口淡入动画";
+
+/* Class = "NSButtonCell"; title = "Remember file dialog sizes"; ObjectID = "SZ4-wb-NIr"; */
+"SZ4-wb-NIr.title" = "记住文件对话框大小";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "measured in pixels"; ObjectID = "Tef-59-foo"; */
+"Tef-59-foo.ibShadowedToolTip" = "以像素为单位测量";
+
+/* Class = "NSButtonCell"; title = "Use standard switching for Carbon apps"; ObjectID = "TQ0-YD-C6a"; */
+"TQ0-YD-C6a.title" = "对 Carbon 应用程序使用标准切换";
+
+/* Class = "NSButtonCell"; title = "Test Performance"; ObjectID = "W2N-NX-PoM"; */
+"W2N-NX-PoM.title" = "性能测试";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "measured in seconds"; ObjectID = "wGK-if-J84"; */
+"wGK-if-J84.ibShadowedToolTip" = "以秒为单位测量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Change the view mode of the file dialog to match the view of the clicked Finder window (icon / list / column mode)."; ObjectID = "Xbf-2F-GcM"; */
+"Xbf-2F-GcM.ibShadowedToolTip" = "更改文件对话框的视图模式，使其与当前点击的 Finder 窗口的视图（图标 / 列表 / 列模式）匹配。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "xwA-qs-rdi"; */
+"xwA-qs-rdi.title" = "确定";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "measured in seconds"; ObjectID = "Y85-IY-79c"; */
+"Y85-IY-79c.ibShadowedToolTip" = "以秒为单位测量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The last selected file isn't usually reselected if you're using column view (it can mess up navigating with the arrow keys). Turn on this setting to do it anyway."; ObjectID = "zem-hY-9x2"; */
+"zem-hY-9x2.ibShadowedToolTip" = "如果您使用列视图，则通常不会重新选择上次选定的文件（这可能会在使用箭头键导航时出现问题）。打开此设置将无论如何执行此操作。";
+

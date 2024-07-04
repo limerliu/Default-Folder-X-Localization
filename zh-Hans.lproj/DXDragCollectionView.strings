@@ -1,0 +1,30 @@
+
+/* Class = "NSMenuItem"; title = "QuickLook"; ObjectID = "0HN-2r-U4i"; */
+"0HN-2r-U4i.title" = "快速预览";
+
+/* Class = "NSMenuItem"; title = "Remove All Items from Sidebar"; ObjectID = "1DX-b7-fW3"; */
+"1DX-b7-fW3.title" = "从侧边栏移除所有项目";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "6wQ-pc-rzk"; */
+"6wQ-pc-rzk.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Remove from Drawer"; ObjectID = "8cv-co-Zoz"; */
+"8cv-co-Zoz.title" = "从抽屉中移除";
+
+/* Class = "NSMenuItem"; title = "Show in File Dialog"; ObjectID = "Bf6-8N-WTf"; */
+"Bf6-8N-WTf.title" = "在文件对话框中显示";
+
+/* Class = "NSMenuItem"; title = "Remove from Sidebar"; ObjectID = "EpF-JY-oc3"; */
+"EpF-JY-oc3.title" = "从侧边栏移除";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Kic-H5-WJg"; */
+"Kic-H5-WJg.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Remove All Items from Drawer"; ObjectID = "Z4b-7O-dFW"; */
+"Z4b-7O-dFW.title" = "从抽屉中移除所有项目";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "awl-U2-R2U"; */
+"awl-U2-R2U.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "jP8-MW-tXT"; */
+"jP8-MW-tXT.title" = "在 Finder 中显示";

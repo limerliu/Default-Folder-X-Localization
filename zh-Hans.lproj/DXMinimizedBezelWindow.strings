@@ -1,0 +1,9 @@
+
+/* Class = "NSWindow"; title = "Default Folder X"; ObjectID = "1oA-Mt-J0g"; Note = "#DoNotLocalize"; */
+"1oA-Mt-J0g.title" = "Default Folder X";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Utility"; ObjectID = "zHx-Qk-c3C"; */
+"zHx-Qk-c3C.ibExternalAccessibilityDescription" = "实用工具";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Utility"; ObjectID = "zHx-Qk-c3C"; */
+"zHx-Qk-c3C.ibShadowedToolTip" = "实用工具";

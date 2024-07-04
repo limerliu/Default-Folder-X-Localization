@@ -1,0 +1,84 @@
+
+/* Class = "NSButtonCell"; title = "Google Drive"; ObjectID = "0p9-cd-OOV"; */
+"0p9-cd-OOV.title" = "Google Drive";
+
+/* Class = "NSTextFieldCell"; title = "recently used files, folders and Finder windows"; ObjectID = "1de-rq-8EG"; */
+"1de-rq-8EG.title" = "最近使用的文件、文件夹和Finder窗口";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1ig-Ba-hbK"; Note = "#DoNotLocalize"; */
+"1ig-Ba-hbK.title" = "5";
+
+/* Class = "NSTextFieldCell"; title = "Sort recent submenus by"; ObjectID = "3PE-GY-FOQ"; */
+"3PE-GY-FOQ.title" = "按照最近子菜单排序";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4Af-uJ-8d6"; Note = "#DoNotLocalize"; */
+"4Af-uJ-8d6.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7e8-N5-sDt"; Note = "#DoNotLocalize"; */
+"7e8-N5-sDt.title" = "表格视图单元格";
+
+/* Class = "NSMenuItem"; title = "100"; ObjectID = "CAh-qM-cfx"; Note = "#DoNotLocalize"; */
+"CAh-qM-cfx.title" = "100";
+
+/* Class = "NSButtonCell"; title = "iCloud Drive"; ObjectID = "GMf-s5-U7H"; */
+"GMf-s5-U7H.title" = "iCloud Drive";
+
+/* Class = "NSButtonCell"; title = "OneDrive"; ObjectID = "Gik-tb-M0c"; */
+"Gik-tb-M0c.title" = "OneDrive";
+
+/* Class = "NSTextFieldCell"; title = "Cloud:"; ObjectID = "Ipf-2s-fK4"; */
+"Ipf-2s-fK4.title" = "云端:";
+
+/* Class = "NSTextFieldCell"; title = "Don't show these folders or any items within them"; ObjectID = "JA5-0m-i0n"; */
+"JA5-0m-i0n.title" = "不显示这些文件夹或其中的任何项目";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "KgZ-wu-wXy"; */
+"KgZ-wu-wXy.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "15"; ObjectID = "M6A-hD-f5M"; Note = "#DoNotLocalize"; */
+"M6A-hD-f5M.title" = "15";
+
+/* Class = "NSButtonCell"; title = "Box Sync"; ObjectID = "MOH-er-Gqb"; */
+"MOH-er-Gqb.title" = "Box Sync";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "O8s-jR-Xo1"; */
+"O8s-jR-Xo1.title" = "名称";
+
+/* Class = "NSButtonCell"; title = "Dropbox"; ObjectID = "OUp-Te-ALr"; */
+"OUp-Te-ALr.title" = "Dropbox";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "OfA-ZW-hnz"; Note = "#DoNotLocalize"; */
+"OfA-ZW-hnz.title" = "10";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "SvB-1e-5at"; Note = "#DoNotLocalize"; */
+"SvB-1e-5at.title" = "20";
+
+/* Class = "NSTextFieldCell"; title = "Include recent items synced from"; ObjectID = "VRS-Vo-WQn"; */
+"VRS-Vo-WQn.title" = "包括从云端同步的最近项目";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "jFo-PH-yrd"; */
+"jFo-PH-yrd.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "jQO-Sg-nHo"; Note = "#DoNotLocalize"; */
+"jQO-Sg-nHo.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "mHZ-Dx-Owa"; */
+"mHZ-Dx-Owa.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "30"; ObjectID = "ooN-Ad-xBr"; Note = "#DoNotLocalize"; */
+"ooN-Ad-xBr.title" = "30";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "opx-Ts-Xt6"; */
+"opx-Ts-Xt6.title" = "名称";
+
+/* Class = "NSButtonCell"; title = "Forget All Recently Used Items"; ObjectID = "sv2-X6-8aM"; */
+"sv2-X6-8aM.title" = "忘记所有最近使用的项目";
+
+/* Class = "NSMenuItem"; title = "50"; ObjectID = "ubB-vS-Mdd"; Note = "#DoNotLocalize"; */
+"ubB-vS-Mdd.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "Menus:"; ObjectID = "wUP-rV-8IR"; */
+"wUP-rV-8IR.title" = "菜单:";
+
+/* Class = "NSTextFieldCell"; title = "Sort recent items by"; ObjectID = "zFH-28-2PE"; */
+"zFH-28-2PE.title" = "按照最近项目排序";

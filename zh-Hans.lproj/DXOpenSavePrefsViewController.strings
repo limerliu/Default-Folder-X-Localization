@@ -1,0 +1,132 @@
+
+/* Class = "NSButtonCell"; title = "Show names of Finder windows when you mouse over them"; ObjectID = "027-rK-OZJ"; */
+"027-rK-OZJ.title" = "当鼠标悬停时显示 Finder 窗口名称";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "03s-Sc-9TL"; */
+"03s-Sc-9TL.title" = "风格:";
+
+/* Class = "NSTabViewItem"; label = "Behavior"; ObjectID = "1xh-JX-5P1"; */
+"1xh-JX-5P1.label" = "行为";
+
+/* Class = "NSMenuItem"; title = "Translucent"; ObjectID = "3ub-pf-Ye4"; */
+"3ub-pf-Ye4.title" = "半透明";
+
+/* Class = "NSButtonCell"; title = "Make the filename editing field wider"; ObjectID = "48y-pB-jP6"; */
+"48y-pB-jP6.title" = "以扩展文件名编辑字段宽度显示";
+
+/* Class = "NSTextFieldCell"; title = "When opening a folder in the Finder"; ObjectID = "499-nB-dat"; */
+"499-nB-dat.title" = "工具菜单选择“在 Finder 中打开”时";
+
+/* Class = "NSButtonCell"; title = "Show comments, tags and actions"; ObjectID = "4a4-C2-khL"; */
+"4a4-C2-khL.title" = "显示注释、标签和操作";
+
+/* Class = "NSTextFieldCell"; title = "Finder-click:"; ObjectID = "5cX-Ii-WDT"; */
+"5cX-Ii-WDT.title" = "Finder-Click:";
+
+/* Class = "NSButtonCell"; title = "Highlight Finder windows when you mouse over them"; ObjectID = "5s0-3s-spv"; */
+"5s0-3s-spv.title" = "鼠标悬停时突出显示 Finder 窗口";
+
+/* Class = "NSButtonCell"; title = "⌃ Control"; ObjectID = "5yh-Bk-Fw4"; */
+"5yh-Bk-Fw4.title" = "⌃ Control";
+
+/* Class = "NSTextFieldCell"; title = "Only when holding down:"; ObjectID = "6Zq-t1-Vje"; */
+"6Zq-t1-Vje.title" = "仅在按住时:";
+
+/* Class = "NSButtonCell"; title = "Choose folders within windows when you click on them"; ObjectID = "8uc-GW-8CK"; */
+"8uc-GW-8CK.title" = "单击窗口内的文件夹可以选择它们";
+
+/* Class = "NSTextFieldCell"; title = "Icons:"; ObjectID = "94w-FT-FpR"; */
+"94w-FT-FpR.title" = "图标:";
+
+/* Class = "NSMenuItem"; title = "System Appearance"; ObjectID = "9R9-DL-mp6"; */
+"9R9-DL-mp6.title" = "系统外观";
+
+/* Class = "NSMenuItem"; title = "Icon Only"; ObjectID = "By2-Oe-Qqs"; */
+"By2-Oe-Qqs.title" = "仅图标";
+
+/* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "Eyz-40-n1p"; */
+"Eyz-40-n1p.title" = "位置:";
+
+/* Class = "NSMenuItem"; title = "right"; ObjectID = "I8J-Wk-vbI"; */
+"I8J-Wk-vbI.title" = "右侧";
+
+/* Class = "NSTextFieldCell"; title = "Theme:"; ObjectID = "KVk-gk-JKb"; */
+"KVk-gk-JKb.title" = "主题:";
+
+/* Class = "NSMenuItem"; title = "Dark"; ObjectID = "NDv-Mq-xal"; */
+"NDv-Mq-xal.title" = "深色";
+
+/* Class = "NSButtonCell"; title = "Choose the desktop when you click on it"; ObjectID = "Q1A-2i-INP"; */
+"Q1A-2i-INP.title" = "单击时选择桌面";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "RKk-qT-LYC"; */
+"RKk-qT-LYC.label" = "外观";
+
+/* Class = "NSMenuItem"; title = "Small Toolbar"; ObjectID = "T6p-IZ-ZqY"; */
+"T6p-IZ-ZqY.title" = "小工具栏";
+
+/* Class = "NSButtonCell"; title = "Automatically select the last selected file"; ObjectID = "UrS-Ja-0QZ"; */
+"UrS-Ja-0QZ.title" = "自动选择上次选定的文件";
+
+/* Class = "NSButtonCell"; title = "⌘ Command"; ObjectID = "VNR-K8-ATY"; */
+"VNR-K8-ATY.title" = "⌘ Command";
+
+/* Class = "NSMenuItem"; title = "stay in the file dialog"; ObjectID = "VnY-Lf-TtW"; */
+"VnY-Lf-TtW.title" = "停留在文件对话框中";
+
+/* Class = "NSMenuItem"; title = "Large Bezel"; ObjectID = "WwP-CX-N7U"; */
+"WwP-CX-N7U.title" = "大工具栏";
+
+/* Class = "NSMenuItem"; title = "Top-aligned"; ObjectID = "Y2h-JH-Gsb"; */
+"Y2h-JH-Gsb.title" = "顶部对齐";
+
+/* Class = "NSButtonCell"; title = "Choose a folder by clicking on its Finder window"; ObjectID = "YB6-OI-urN"; */
+"YB6-OI-urN.title" = "通过单击其 Finder 窗口选择文件夹";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "ZQm-lO-CWp"; */
+"ZQm-lO-CWp.title" = "工具栏:";
+
+/* Class = "NSMenuItem"; title = "switch to the Finder"; ObjectID = "b15-I9-gbu"; */
+"b15-I9-gbu.title" = "切换到 Finder 窗口";
+
+/* Class = "NSMenuItem"; title = "Icon and Text"; ObjectID = "eG5-7G-Oi3"; */
+"eG5-7G-Oi3.title" = "图标和文本";
+
+/* Class = "NSButtonCell"; title = "Default to the current document's folder"; ObjectID = "fNg-6j-NXt"; */
+"fNg-6j-NXt.title" = "默认选择当前文档的文件夹";
+
+/* Class = "NSMenuItem"; title = "Black and White"; ObjectID = "gSc-kC-Dfr"; */
+"gSc-kC-Dfr.title" = "黑白";
+
+/* Class = "NSTextFieldCell"; title = "Save:"; ObjectID = "giC-bm-iBa"; */
+"giC-bm-iBa.title" = "保存:";
+
+/* Class = "NSTextFieldCell"; title = "Open:"; ObjectID = "lig-Ym-pXk"; */
+"lig-Ym-pXk.title" = "打开:";
+
+/* Class = "NSTextFieldCell"; title = "Save:"; ObjectID = "mhj-yk-rGN"; */
+"mhj-yk-rGN.title" = "保存:";
+
+/* Class = "NSTextFieldCell"; title = "Finder:"; ObjectID = "nTC-jW-hDa"; */
+"nTC-jW-hDa.title" = "Finder:";
+
+/* Class = "NSTextFieldCell"; title = "on the"; ObjectID = "qWa-z6-haw"; */
+"qWa-z6-haw.title" = "在";
+
+/* Class = "NSButtonCell"; title = "Show previews, info and tags"; ObjectID = "qXY-fO-Msy"; */
+"qXY-fO-Msy.title" = "显示预览、信息和标签";
+
+/* Class = "NSTextFieldCell"; title = "Open:"; ObjectID = "uKM-l4-UXC"; */
+"uKM-l4-UXC.title" = "打开:";
+
+/* Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "um2-LD-Qfl"; */
+"um2-LD-Qfl.title" = "显示:";
+
+/* Class = "NSMenuItem"; title = "Centered"; ObjectID = "vxP-gN-p5n"; */
+"vxP-gN-p5n.title" = "居中";
+
+/* Class = "NSMenuItem"; title = "left"; ObjectID = "xII-S2-Xbj"; */
+"xII-S2-Xbj.title" = "左侧";
+
+/* Class = "NSMenuItem"; title = "Color"; ObjectID = "yyT-8T-Yt5"; */
+"yyT-8T-Yt5.title" = "颜色";

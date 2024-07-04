@@ -1,0 +1,6 @@
+
+/* Class = "NSTextFieldCell"; title = "• Open the file in its default app\n• Attach it to a new email message\n• Send it to a Shortcut, Workflow or AppleScript"; ObjectID = "Gr7-Ka-K7j"; */
+"Gr7-Ka-K7j.title" = "• 在默认应用程序中打开文件\n• 将其附加到新的电子邮件消息\n• 发送到快捷方式、工作流或 AppleScript";
+
+/* Class = "NSTextFieldCell"; title = "Automatically perform actions after saving a file."; ObjectID = "lah-wD-gGU"; */
+"lah-wD-gGU.title" = "保存文件后自动执行操作。";

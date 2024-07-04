@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Created:"; ObjectID = "0CP-6j-JMW"; */
+"0CP-6j-JMW.title" = "创建时间：";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "1Bi-3e-Bus"; */
+"1Bi-3e-Bus.title" = "紫色";
+
+/* Class = "NSButtonCell"; title = "Stationery"; ObjectID = "4et-fI-c2a"; */
+"4et-fI-c2a.title" = "模板";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "8UX-eG-3G1"; */
+"8UX-eG-3G1.title" = "橙色";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "9Iw-5t-RVF"; */
+"9Iw-5t-RVF.title" = "黄色";
+
+/* Class = "NSTextFieldCell"; title = "Kind:"; ObjectID = "abH-8Q-mR9"; */
+"abH-8Q-mR9.title" = "种类:";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "aHT-EJ-9jC"; */
+"aHT-EJ-9jC.title" = "绿色";
+
+/* Class = "NSTextFieldCell"; title = "Modified:"; ObjectID = "B7Q-GV-exb"; */
+"B7Q-GV-exb.title" = "修改时间:";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "Jdz-mW-gHS"; */
+"Jdz-mW-gHS.title" = "无";
+
+/* Class = "NSButtonCell"; title = "Hide extension"; ObjectID = "k7X-0x-ScN"; */
+"k7X-0x-ScN.title" = "隐藏拓展名";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "KI8-KE-3q5"; */
+"KI8-KE-3q5.title" = "灰色";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "LX4-W2-zHh"; */
+"LX4-W2-zHh.title" = "大小:";
+
+/* Class = "NSButtonCell"; title = "Locked"; ObjectID = "MFc-lT-rj8"; */
+"MFc-lT-rj8.title" = "已锁定";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "Sdw-sg-oBo"; */
+"Sdw-sg-oBo.title" = "蓝色";
+
+/* Class = "NSButtonCell"; title = "Change Creation Date"; ObjectID = "TDR-2o-oBA"; */
+"TDR-2o-oBA.title" = "更改创建日期";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "ZGC-av-37z"; */
+"ZGC-av-37z.title" = "红色";
+

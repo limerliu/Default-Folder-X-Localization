@@ -1,0 +1,48 @@
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "31Z-dx-w09"; */
+"31Z-dx-w09.title" = "全部";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "3gb-DS-Du5"; */
+"3gb-DS-Du5.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Copy Path"; ObjectID = "4Vg-Ms-Y6d"; */
+"4Vg-Ms-Y6d.title" = "复制路径";
+
+/* Class = "NSTextFieldCell"; title = "File path"; ObjectID = "4cL-pk-lR8"; */
+"4cL-pk-lR8.title" = "文件路径";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Search Default Folder X"; ObjectID = "6xI-ZS-8wE"; */
+"6xI-ZS-8wE.placeholderString" = "搜索 Default Folder X";
+
+/* Class = "NSMenuItem"; title = "Folders"; ObjectID = "FDJ-5V-mNp"; */
+"FDJ-5V-mNp.title" = "文件夹";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "IZX-3c-aLd"; */
+"IZX-3c-aLd.title" = "Spotlight";
+
+/* Class = "NSMenuItem"; title = "Favorite"; ObjectID = "Sku-xn-gar"; */
+"Sku-xn-gar.title" = "收藏";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "T98-h5-tBI"; */
+"T98-h5-tBI.title" = "打开";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WkP-Vt-LPk"; */
+"WkP-Vt-LPk.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Finder"; ObjectID = "Z7Y-ct-c0a"; */
+"Z7Y-ct-c0a.title" = "Finder";
+
+/* Class = "NSTextFieldCell"; title = "Filename"; ObjectID = "fBX-ma-ueR"; */
+"fBX-ma-ueR.title" = "文件名";
+
+/* Class = "NSMenuItem"; title = "Recent"; ObjectID = "lRP-HY-vCh"; */
+"lRP-HY-vCh.title" = "最近使用";
+
+/* Class = "NSTextFieldCell"; title = "File path"; ObjectID = "mHD-7F-eJp"; */
+"mHD-7F-eJp.title" = "文件路径";
+
+/* Class = "NSMenuItem"; title = "Files"; ObjectID = "pny-Nk-ZMy"; */
+"pny-Nk-ZMy.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Apps"; ObjectID = "qni-Uv-zIx"; */
+"qni-Uv-zIx.title" = "应用";
